@@ -13,9 +13,9 @@ The table will automatically calculate the number of working hours and give you 
 - **Make sure to not load your working hours onto Github into a public repository!**
 - The purpose of this table is to enable you to track your own time. It is not guaranteed to be accepted by employers.
 
-
+<br>
 -----------
-
+<br>
 
 > [DE]
 # 📋Arbeitszeiterfassungstablle
