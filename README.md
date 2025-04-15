@@ -9,6 +9,8 @@ Exel table to track your working hours
 
 The table will automatically calculate the number of working hours and give you an estimate on how far your got along the month already.
 
+**Note:** The table is useable with OpenSource Software, such as OnlyOffice or LibreOffice. The tracking of progress may however be incorrect due to the `MAX` function not working.
+
 ## ❗ Attention ❗
 - **Make sure to not load your working hours onto Github into a public repository!**
 - The purpose of this table is to enable you to track your own time. It is not guaranteed to be accepted by employers.
@@ -29,6 +31,8 @@ Exceltabelle um die Arbeitszeiten zu erfassen
 3. Abwesenheit durch Buchstabencode (siehe unten in der Tabelle) eintragen
 
 Die Tabelle rechnet automatisch die Arbeitszeiten aus und gibt eine Einschätzung wie viel vom Monatspensum bereits geleistet wurde bzw. durch begründete Abwesenheit nicht geleistet werden muss.
+
+**Hinweis:** Die Tabelle ist mit OpenSource Software wie OnlyOffice bzw. LibreOffice nutzbar. Allerdings könnte die Berechnung des Monatsfortschritts nicht funktionieren, da die `MAX` Funktion nicht mit Listen umgehen kann.
 
 ## ❗ Vorsicht ❗
 **Keine Arbeitszeiten öffentlich auf Github hochladen!**
