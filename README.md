@@ -1,8 +1,8 @@
 > [EN]
-# WorkTimekeepingTable
+# 📋WorkTimekeepingTable
 Exel table to track your working hours
 
-## Usage
+## 🔨 Usage
 1. Enter the current month 
 2. Enter your working hours with starting time, end time and breaks
 3. Indicate absence with letters (see in table)
@@ -18,10 +18,10 @@ The table will automatically calculate the number of working hours and give you 
 
 
 > [DE]
-# Arbeitszeiterfassungstablle
+# 📋Arbeitszeiterfassungstablle
 Exceltabelle um die Arbeitszeiten zu erfassen
 
-## Nutzung
+## 🔨 Nutzung
 1. Aktuellen Monat eintragen
 2. Arbeitszeiten mit Start-, End-, und Pausezeiten eintragen
 3. Abwesenheit durch Buchstabencode (siehe unten in der Tabelle) eintragen
