@@ -14,7 +14,9 @@ The table will automatically calculate the number of working hours and give you 
 - The purpose of this table is to enable you to track your own time. It is not guaranteed to be accepted by employers.
 
 <br>
+
 -----------
+
 <br>
 
 > [DE]
