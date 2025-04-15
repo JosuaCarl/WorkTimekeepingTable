@@ -6,6 +6,7 @@ Exel table to track your working hours
 1. Enter the current month 
 2. Enter your working hours with starting time, end time and breaks
 3. Indicate absence with letters (see in table)
+4. Save table with a new name, for example `PATH/TO/YOUR/LOCAL/DOCUMENTS/MONTH_YEAR_NAME.xlsx`
 
 The table will automatically calculate the number of working hours and give you an estimate on how far your got along the month already.
 
@@ -29,6 +30,7 @@ Exceltabelle um die Arbeitszeiten zu erfassen
 1. Aktuellen Monat eintragen
 2. Arbeitszeiten mit Start-, End-, und Pausezeiten eintragen
 3. Abwesenheit durch Buchstabencode (siehe unten in der Tabelle) eintragen
+4. Tabelle unter neuem Namen und Pfad speichern `PFAD/ZU/LOKALEN/DOKUMENTEN/MONAT_JAHR_NAME.xlsx`
 
 Die Tabelle rechnet automatisch die Arbeitszeiten aus und gibt eine Einschätzung wie viel vom Monatspensum bereits geleistet wurde bzw. durch begründete Abwesenheit nicht geleistet werden muss.
 
